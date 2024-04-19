@@ -1,3 +1,3 @@
 # DBMS-Retail-Store
 
-It is a DBMS Project to make a Mock Online Retail Store capable of all functionalietie as one would expect in a Full working Retail Site. I have used Python for Front End User interaction where the backend databse would be taken from MySQL.
+Developed PurePlanet, an online retail system, as a part of the Fundamentals of Database Management System course at IIITD. The project was built using Python and MySQL, focusing on implementing core database management concepts and principles.
